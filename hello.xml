@@ -1,5 +1,5 @@
 <greeting>
-  <message>Hello, XML World!</message>
-  <author>Rahul Kundu</author>
-  <time>21:00</time>
+  <message>Hello, World!</message>
+  <author>RK</author>
+  <date>2025-08-10</date>
 </greeting>
